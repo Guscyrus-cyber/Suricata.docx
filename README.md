@@ -3,10 +3,10 @@
 Suricata is an open-source, high-performance network security tool designed for intrusion detection and prevention. It is used to monitor and analyze network traffic in real-time to detect and block potential threats. Suricata can handle a variety of network protocols and is capable of inspecting network traffic at high speeds, making it suitable for enterprise environments and security-focused operations. It supports custom rule creation, allows for deep packet inspection, and generates detailed logs and alerts for security analysis.
 
 Lab Overview
-This lab involves using Suricata, an open-source intrusion detection and prevention system (IDS/IPS), to analyze network traffic and test custom rules. You'll work with log files like fast.log and eve.json to identify alerts triggered by specific rules.
+This lab involves using Suricata, an open-source intrusion detection and prevention system (IDS/IPS), to analyze network traffic and test custom rules. Working with log files like fast.log and eve.json to identify alerts triggered by specific rules.
  
 Scenario
-As a security analyst, you will:
+As a security analyst,
 1.	Configure Suricata to monitor network traffic using predefined and custom rules.
 2.	Analyze traffic captured in a sample.pcap file.
 3.	Examine alerts in the fast.log and detailed event data in the eve.json files.
